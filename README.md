@@ -12,6 +12,8 @@ Hack into an oldschool terminal by solving anagrams.
 - Core Mechanic:  Anagram guessing game
 - Core Game Loop:  Player is shown a scrambled word and asked to guess. They have as many guesses as needed. When they guess correctly, they "win."
 
+![alt text](start.png "Terminal Hacker")
+
 ------------------------------------------------------------
 
 ## Depenedencies
